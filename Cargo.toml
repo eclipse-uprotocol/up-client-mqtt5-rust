@@ -35,6 +35,7 @@ version = "0.1.0"
 async-trait = { version = "0.1" }
 bytes = { version = "1.5" }
 paho-mqtt = { version = "0.12.1" }
+protobuf = { version = "3.3" }
 rand = { version = "0.8" }
 regex = { version = "1.10" }
 serde = { version = "1.0", features = ["derive"] }
